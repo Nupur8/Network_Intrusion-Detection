@@ -1,6 +1,6 @@
 Classifying network intrusions by using machine learning algorithmns like naive bayes, random forest, decision tree,logistic regression.
 
-Install
+## Install
 This project requires **Python 2.7** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
