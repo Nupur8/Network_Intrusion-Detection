@@ -7,5 +7,6 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
 ### Code
-Code for the project is provided in the spam_classifier jupyter notebook.
+Code for the project is provided in the intrusion detection using machine learning jupyter notebook.
 ### Dataset
+Dataset used for the intrusion detection is NSL_KDD.NSL_KDD is a subset of KDD dataset.
