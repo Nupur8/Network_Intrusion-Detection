@@ -9,4 +9,4 @@ This project requires **Python 2.7** and the following Python libraries installe
 ### Code
 Code for the project is provided in the intrusion detection using machine learning jupyter notebook.
 ### Dataset
-Dataset used for the intrusion detection is NSL_KDD.NSL_KDD is a subset of KDD dataset.
+Dataset used for the intrusion detection is NSL_KDD which consists of selected records of KDD complete dataset.
